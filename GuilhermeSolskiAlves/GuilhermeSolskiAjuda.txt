@@ -1,0 +1,18 @@
+ _____________________________________________________________
+|                     INSTRUCOES                              |
+|controles;                                                   |
+|setas(cima,baixo): altera a cor a ser jogada;                |
+|							      |
+|espaço: seleciona a cor;                                     |
+| 							      |
+|objetivo:                                                    |
+|voce deve descobrir a combinação de cores em ate 10          |
+|tentativas para isso voce usara como informação os pinos     |         
+|                                                             |
+|                                                             |
+|cores dos pinos:                                             |
+|branco: cor certa no lugar errado;                           |
+|preto: cor certa no lugar certo;                             |
+|_____________________________________________________________|
+
+ PRRECIONE QUALQUER TECLA PARA JOGAR;
