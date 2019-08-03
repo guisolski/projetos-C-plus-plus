@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(17): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(23): warning C4305: '+=': truncamento de 'double' para 'GLfloat'
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(32): warning C4305: '+=': truncamento de 'double' para 'GLfloat'
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(72): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(79): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(95): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(99): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(100): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\guilh\source\repos\opengl_f\opengl_f\main.cpp(109): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+  OpenGL_F.vcxproj -> C:\Users\guilh\source\repos\OpenGL_F\Debug\OpenGL_F.exe

@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\guisolski\source\repos\opengl_first\opengl_first\main.cpp(43): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+  OpenGL_First.vcxproj -> C:\Users\guisolski\source\repos\OpenGL_First\Debug\OpenGL_First.exe
